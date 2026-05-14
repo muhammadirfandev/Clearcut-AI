@@ -1,0 +1,6 @@
+{
+  "name": "ClearCut AI",
+  "description": "Professional-grade background removal powered by AI. Simple, fast, and completely in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
