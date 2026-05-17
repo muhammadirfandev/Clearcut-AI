@@ -374,7 +374,7 @@ export default function App() {
       {/* Footer from original app adjusted to theme */}
       <footer className="border-t border-slate-200 p-8 text-center bg-white">
         <p className="text-slate-400 text-[10px] font-mono tracking-[0.3em] uppercase font-bold">
-          Powered by ClearCut AI Technology • 2026
+          Powered by ClearCut AI. Made by Stacknex Lab • 2026
         </p>
       </footer>
     </div>
